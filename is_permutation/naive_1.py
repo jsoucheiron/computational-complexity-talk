@@ -1,4 +1,4 @@
- from itertools import permutations
+from itertools import permutations
 
 
 def is_permutation(string_1, string_2):
